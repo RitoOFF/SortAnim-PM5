@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RitoOFF/SortAnim-PM5
+build-by-default: true
+branches:
+- main
+projects:
+  SortAnim-PM5:
+    path: ""
+...
